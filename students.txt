@@ -1,0 +1,3 @@
+106,sruthi,sruthi@gmail.com,19
+102,venky,venky@gmail.com,20
+103,prasanna,prasanna@gmail.com,25
