@@ -1,6 +1,4 @@
 # Student-Record-Manager
-# Student Record Manager
-
 A simple **Python-based Student Record Management System** that allows users to add and view student records through a menu-driven console application.
 
 ## Features
